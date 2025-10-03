@@ -1,0 +1,71 @@
+Create a modern, responsive landing page in HTML, CSS, and JavaScript, fully written in Brazilian Portuguese (pt-BR). 
+
+⚡ Style & Visual Identity:
+- General tone: serious, trustworthy, modern (financial authority).
+- Color palette:
+  - Dark blue (#0D3B66): trust and security
+  - Green (#3FC1C9): growth, prosperity, money
+  - Light gray (#F4F4F4): clean background
+  - White (#FFFFFF): contrast and clarity
+- Typography:
+  - Titles: Montserrat Bold or Poppins Bold
+  - Text: Roboto or Open Sans
+
+⚡ Structure of the page:
+1. **Header**
+   - Logo (product name in bold typography).
+   - Navigation: Home | Sobre | Conteúdo | Bônus | Depoimentos | Comprar
+   - Fixed CTA button: “Comprar Agora” (green with hover effect in dark blue).
+
+2. **Hero Section**
+   - Image: person smiling with credit card or financial growth chart.
+   - Headline: “Transforme seu Score de Crédito e Conquiste o Crédito que Você Merece!”
+   - Subheadline: “Aprenda passo a passo como aumentar seu score no Serasa e alcançar suas metas financeiras sem complicação.”
+   - Buttons: “Comprar Agora” and “Baixar Amostra Grátis”
+   - Mental triggers: urgency/shortage like “Oferta por tempo limitado”.
+
+3. **About the Product**
+   - Short explanation of the main eBook + mini-eBooks.
+   - Bullet points with benefits:
+     - Plano de 90 dias para aumentar seu score
+     - Ferramentas e checklists práticos
+     - Mini-eBooks bônus para acelerar resultados
+   - Mockup of the main eBook and mini-eBooks side by side.
+   - Proof of authority: “Mais de 1.000 leitores já transformaram sua pontuação”.
+
+4. **Bônus & Extras**
+   - List of mini-eBooks with small covers.
+   - CTA: “Adicione ao Pacote e Turbine Seus Resultados”.
+   - Highlight value perception: “Pacote completo que vale R$297, disponível hoje por R$97”.
+
+5. **Testimonials**
+   - Client photos or avatars + short positive quotes.
+   - Proof of trust/social validation.
+
+6. **Guarantee**
+   - Text: “Se após 7 dias você não estiver satisfeito, devolvemos seu dinheiro sem burocracia.”
+   - Risk reduction trigger.
+
+7. **Footer**
+   - Quick links, contact info, social media.
+   - Disclaimer: results may vary.
+
+⚡ Images & Icons:
+- Use placeholder images for now (graphs, people smiling, credit cards).
+- Use check icons (✔) to highlight benefits.
+
+⚡ Copywriting & Mental Triggers:
+- Authority: based on Serasa data and specialists.
+- Urgency: “Oferta por tempo limitado”.
+- Shortage: bonuses available only for early buyers.
+- Proof of trust: customer testimonials.
+- Value perception: show that real value is higher than the current offer.
+- Risk reduction: clear money-back guarantee.
+
+⚡ Payment Integration:
+- Add a clear “Comprar Agora” button linked to an external checkout URL.
+- Example: integrate with PayPal / Hotmart / Mercado Pago by redirecting to a sample payment link:
+  - Example URL: `https://www.paypal.com/checkoutnow?token=EXAMPLE`
+- Ensure the button is styled in green (#3FC1C9), with hover effect in dark blue (#0D3B66).
+
+The entire page content (texts, buttons, sections) must be **in Brazilian Portuguese (pt-BR)**.
